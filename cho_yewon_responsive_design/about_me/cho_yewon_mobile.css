@@ -1,0 +1,17 @@
+h1#big_title{
+	color: darkred;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+article{
+	column-count: 2;
+	column-gap: 40px;
+	column-rule: 1px solid violet;
+}
+
+.responsive.mobile{
+	display: block;
+}
+
+

@@ -1,0 +1,18 @@
+.responsive.desktop{
+	display: block;
+}
+
+.row{
+	max-width: 970px;
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0 4px;
+}
+
+.column{
+	flex: 25%;
+	max-width: 25%;
+	padding: 0 4px;
+	float: left;
+}
+

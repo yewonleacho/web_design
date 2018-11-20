@@ -1,0 +1,42 @@
+body{
+	background-color: thistle;
+	margin-bottom: 80px;
+}
+
+article{
+	column-count: 3;
+	column-gap: 40px;
+	column-rule: 1px solid violet;
+}
+
+.courses{
+	display: inline-block;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 10px;
+}
+
+div#container{
+	width: 970px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: "Amiko";
+	}
+
+h1#big_title{
+	color: indigo;
+	font-weight: bold;
+	font-size: 40px;
+}
+
+
+h2{
+	color: purple;
+}
+
+h3.semester{
+	color: mediumpurple;
+}
+
+a:link{color: purple;}
+a:hover{color: plum;}
+a:visited{color: pink;}

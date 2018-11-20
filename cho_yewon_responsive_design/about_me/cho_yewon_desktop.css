@@ -1,0 +1,16 @@
+.responsive.desktop{
+	display: block;
+}
+
+.semester{
+	</* font size and color stay if desktop*/>
+	font-size: 40px;
+	font-weight: bold;
+	color: indigo;
+	float: left;
+	width: 50%;
+}
+
+.
+
+

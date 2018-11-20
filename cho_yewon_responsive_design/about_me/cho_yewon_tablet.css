@@ -1,0 +1,16 @@
+
+article{
+	column-count: 2;
+	column-gap: 40px;
+	column-rule: 1px solid violet;
+}
+
+h1#big_title{
+	color: palevioletred;
+	font-weight: bold;
+	font-size: 40px;
+}
+
+.responsive.tablet{
+	display: block;
+}
